@@ -8,5 +8,5 @@ I am a software engineer from Pune, India interested in the domains of Web Devel
 If you're at this link, presumably you have been sent to view my biographical information.
 Well, here's the information you need to know about me:
 
-- [Loukik's Professional Resume]{professional-resume.html}
-- [Loukik's Academic Resume]{academic-resume.html}
+- [Loukik's Professional Resume]{./professional-resume.html}
+- [Loukik's Academic Resume]{./academic-resume.html}
