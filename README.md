@@ -13,7 +13,7 @@ After completing my undergraduate education, I worked at Deutsche Bank out of th
 If you're at this link, you must be looking for information about me. Here it is in exquisite detail:
 
 - [Loukik's Resume for Internships & University Grad Opportunities](./uw-resume.html)
-- [Loukik's Resume for Graduate Assistantships](./graduate-research-resume.html)
+- [Loukik's Resume for Research Opportunities](./graduate-research-resume.html)
 - [Loukik's Resume for Graduate Assistantships](./graduate-assistant-resume.html)
 - [Loukik's Professional Resume](./professional-resume.html)
 - [Loukik's Resume for On-Campus Opportunities](./campus-assistant-resume.html)
